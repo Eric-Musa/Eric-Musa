@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eric-Musa
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Full-Stack development
-- 💞️ I’m looking to collaborate on a Concept Mapping
+- 💞️ I’m looking to collaborate on a Concept Mapping Web/Mobile App
 - 📫 Feel free to connect with and reach out to me on **<a href="https://www.linkedin.com/in/ericmusa/">LinkedIn</a>**!
 
 <!---
